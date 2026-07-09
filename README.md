@@ -31,9 +31,9 @@ I am a passionate MERN Stack Developer from Dhaka, Bangladesh who enjoys buildin
 
 - 🌱 Exploring **Next.js**
 - 💻 Solving problems on **LeetCode**
-- 🎨 Working on **ArtHub** (Art Marketplace)
-- 🐶 Developing **PetNest**
-- 🛍️ Building **SunCart – Summer Essentials Store**
+- 🎨 Worked on **ArtHub** (Art Marketplace)
+- 🐶 Developed **PetNest**
+- 🛍️ Built **SunCart – Summer Essentials Store**
 - 🔐 Learning Authentication & Authorization
 - ⚡ Strengthening my MERN Stack development skills
 
