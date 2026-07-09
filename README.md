@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Niloy%20Mehedi&fontAlign=50&fontAlignY=40&fontSize=50&desc=MERN%20Stack%20Developer&descAlignY=60" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Niloy Mehedi</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan Niloy</h1>
 
 <h3 align="center">
 MERN Stack Developer | Passionate about Building Modern Web Applications
