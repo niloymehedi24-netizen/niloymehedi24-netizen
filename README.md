@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Niloy%20Mehedi&fontAlign=50&fontAlignY=40&fontSize=50&desc=MERN%20Stack%20Developer&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=300&section=header&text=Mehedi%20Hasan%20Niloy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20React%20|%20Next.js%20|%20Node.js%20|%20MongoDB&descAlignY=60&descSize=18" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Niloy</h1>
